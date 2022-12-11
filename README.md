@@ -1,4 +1,22 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# My Bike Landing Page pet-project
+- [DEMO LINK](https://Dikey945.github.io/my-bike/)
+
+
+## Technologies:
+- HTML
+- SCSS
+- Flexbox
+- BEM-methodology
+- JS
+
+## Adaptive layout:
+- Desktop (>= 1280px)
+- Tablet (>= 640px)
+- Mobile (>= 320px)
+
+## Included sections:
+- Header with Nav block
+- Burger Menu block
+- Bikes block
+- Details team block
+- Footer
